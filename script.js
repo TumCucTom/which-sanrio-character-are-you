@@ -194,7 +194,7 @@ function result() {
       console.log("Pompompurin");
       finalresult.innerHTML = "You are most like Pompompurin!";
       var pompompurinImage = document.createElement("img");
-      pompompurinImage.src = "assets/pompompurin.svg";
+      pompompurinImage.src = "https://corporate.sanrio.co.jp/en/business-info/images/img_pompompurin.png";
       pompompurinImage.alt = "Pompompurin, a yellow dog wearing a brown beret";
       finalresult.appendChild(pompompurinImage);
     }

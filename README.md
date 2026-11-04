@@ -20,8 +20,13 @@ You can extend your project further by:
 
 
 ### Image Attributions
-*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
+
 - [Sitting cat from Pixabay](https://pixabay.com/photos/cat-kitten-pets-animals-housecat-2934720/)
+- "Take a nap": [Diana Light / Unsplash](https://unsplash.com/photos/a-person-sleeping-on-a-bed-yTTF4x4j8AQ), under the [Unsplash License](https://unsplash.com/license).
+- "Easygoing": [Land O'Lakes, Inc. / Unsplash](https://unsplash.com/photos/two-smiling-women-in-a-park-vBUGdI7JAvc), under the [Unsplash License](https://unsplash.com/license).
+- Pompompurin result: [Official Sanrio character artwork](https://corporate.sanrio.co.jp/en/business-info/brands/pompompurin/index.html). Pompompurin is © SANRIO CO., LTD.; this image is not covered by the Unsplash License.
+
+The nap, easygoing, and Pompompurin images load from the original image hosts. They require an internet connection.
 
 ---
 
